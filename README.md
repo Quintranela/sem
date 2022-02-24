@@ -7,3 +7,4 @@ Testing CI workflow
 
 [![Releases](https://img.shields.io/github/release/Quintranela/sem/all.svg?style=flat-square)](https://github.com/Quintranela/sem/releases)
 
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Quintranela/sem/A%20workflow%20for%20my%20Hello%20World%20App/develop)
